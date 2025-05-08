@@ -2,6 +2,7 @@
 
 ## Description
 500,605 Images - Individual Photo Face Data. One person have one face image. The race distribution includes Asian, Black, Caucasian and brown people, the age distribution is ranging from infant to the elderly, the middle-aged and young people are the majorities. The collection environment includes indoor and outdoor scenes. The data diversity includes multiple age periods, multiple scenes, multiple facial postures and multiple expressions. The data can be used for tasks such as face recognition. We strictly adhere to data protection regulations and privacy standards, ensuring the maintenance of user privacy and legal rights throughout the data collection, storage, and usage processes, our datasets are all GDPR, CCPA, PIPL complied.
+
 For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1487?source=Github
 
 ## Specifications
